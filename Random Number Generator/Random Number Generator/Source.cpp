@@ -1,6 +1,6 @@
 //Random Number Generator
-//isaia Ponciano
-//Date: 4/24/2017
+//Isaiah Ponciano
+
 
 #include <iostream>
 #include <cstdlib>
