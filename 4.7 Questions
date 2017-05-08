@@ -1,7 +1,16 @@
 1. What kinds of things would be difficult to program without loops? 
-  
+     Without loops it would be difficult to code because it may possibly have an animation delay, memory may be lost, and it is more
+     difficult to read.
+ 
 2. What are the advantages and disadvantages of switch statements?
+     Some advantages and disadvantages of switch statements are its easier to debug, easier for a person to read, easier to understand, and
+     easier to maintain. A sequence of if else if statements may yield deep nesting, making compilation more difficult, potentially faster
+     execution, easier to verify that all values are handled.
     
 3. When should you use a while loop over a do loop?
-          
+     You should use a while loop over a do loop when you want to repeat a section of code a number of times until a specific condition or 
+     your preference is met.     
+     
 4. Describe your favorite game in terms of the game loop. Is the game loop a good fit?
+      My favorite game in terms of a game loop is Pac-Man because when I die it ask "Would you like to play again" and I could choose 
+      between choice 1: Yes or choice 2: No.
