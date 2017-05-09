@@ -15,7 +15,7 @@ int main()
 	double TotalPesos;
 	double TotalYen;
 
-
+	
 
 
 	std::cout << "Welcome to the currency converter. " << std::endl;
