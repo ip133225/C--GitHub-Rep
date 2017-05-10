@@ -1,0 +1,6 @@
+Project 5 Questions 
+1. Having functions can help me stay organized, by dividing up the code, and not jamming it into a large mess.
+
+2. An argument in context with functions is the actual value that is passed to the function.  
+parameter refers to the variables that are used in the function declaration/definition to represent those arguments that were send to the 
+function during the function call.
